@@ -1,0 +1,16 @@
+{
+  "nameTeam1": "",
+  "logoTeam1": "",
+  "scoreTeam1": 0,
+  "nameTeam2": "",
+  "logoTeam2": "",
+  "scoreTeam2": 0,
+  "gameMode": "",
+  "timer": 0,
+  "pick1": "",
+  "pick2": "",
+  "pick3": "",
+  "pickVisible1": false,
+  "pickVisible2": false,
+  "pickVisible3": false
+}
